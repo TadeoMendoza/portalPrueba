@@ -1,5 +1,6 @@
 <template>
   <h1>VUE MUNDO</h1>
+  <Nav />
 </template>
 
 <script>
